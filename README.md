@@ -1,3 +1,3 @@
-#JUSTSOMEFUN
+*JUSTSOMEFUN
 
 Nothing is here.
